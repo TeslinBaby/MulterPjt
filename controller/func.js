@@ -1,4 +1,4 @@
-const Name = require("../model/model");
+const Name = require("../model/model.js");
 
 // Render the home page with a list of users
 const renderHome = (req, res) => {
